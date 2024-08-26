@@ -1,2 +1,5 @@
-# Personal_Projects
-Here I will try to upload a project OR update them daily.
+# Personal Projects
+I will upload or update a project daily.
+
+Projects:
+  A functioning calculator using HTML, CSS, and JavaScript.
